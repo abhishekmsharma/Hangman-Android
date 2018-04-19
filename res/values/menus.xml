@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <menu name="activity_about">res/menu/activity_about.xml</menu>
+    <menu name="activity_main">res/menu/activity_main.xml</menu>
+</resources>

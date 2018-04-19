@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="bgf3">res/drawable-xhdpi-v4/bgf3.png</drawable>
+    <drawable name="bgs">res/drawable-xhdpi-v4/bgs.png</drawable>
+    <drawable name="bgt">res/drawable-xhdpi-v4/bgt.png</drawable>
+    <drawable name="chalkboard">res/drawable-xhdpi-v4/chalkboard.png</drawable>
+    <drawable name="h1">res/drawable-xhdpi-v4/h1.png</drawable>
+    <drawable name="h2">res/drawable-xhdpi-v4/h2.png</drawable>
+    <drawable name="h3">res/drawable-xhdpi-v4/h3.png</drawable>
+    <drawable name="h4">res/drawable-xhdpi-v4/h4.png</drawable>
+    <drawable name="h5">res/drawable-xhdpi-v4/h5.png</drawable>
+    <drawable name="h6">res/drawable-xhdpi-v4/h6.png</drawable>
+    <drawable name="h7">res/drawable-xhdpi-v4/h7.png</drawable>
+    <drawable name="ic_launcher">res/drawable-ldpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-mdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-hdpi-v4/ic_launcher.png</drawable>
+    <drawable name="ic_launcher">res/drawable-xhdpi-v4/ic_launcher.png</drawable>
+    <drawable name="iknowit">res/drawable-xhdpi-v4/iknowit.png</drawable>
+    <drawable name="nextbutton">res/drawable-xhdpi-v4/nextbutton.png</drawable>
+    <drawable name="submit5">res/drawable-xhdpi-v4/submit5.png</drawable>
+</resources>

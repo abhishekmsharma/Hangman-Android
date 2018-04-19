@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game" android:orderInCategory="100" android:title="New Game" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_category" android:orderInCategory="100" android:title="Category" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_Difficulty" android:orderInCategory="100" android:title="Difficulty" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_Sound" android:orderInCategory="100" android:title="Sound" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_changeFont" android:orderInCategory="100" android:title="Change Font" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_HangmanP" android:orderInCategory="100" android:title="Hangman Popups" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_settings" android:orderInCategory="100" android:title="About" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_admin" android:orderInCategory="100" android:title="Admin Mode" android:showAsAction="UNKNOWN_DATA_0x0" />
+    <item android:id="@+id/menu_exit" android:orderInCategory="100" android:title="Exit" android:showAsAction="UNKNOWN_DATA_0x0" />
+</menu>
